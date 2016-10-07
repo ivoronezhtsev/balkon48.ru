@@ -1,1 +1,1 @@
-# The rePository of my own site balkon48.ru
+# The repository of my own site balkon48.ru
